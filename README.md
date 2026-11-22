@@ -116,7 +116,7 @@ The list has 145 entries. Every entry was checked against a primary page (arXiv 
 | Thurnherr and Scheurer, "TracrBench: Generating Interpretability Testbeds with Large Language Models" | ICML Mechanistic Interpretability Workshop (arXiv comment), 2024-09 | [Paper](https://arxiv.org/abs/2409.13714) |
 | Vergara-Browne and Soto, "Tracr-Injection: Distilling Algorithms into Pre-trained Language Models" | ACL Findings 2025 (arXiv comment) | [Paper](https://arxiv.org/abs/2505.10719) |
 | Weber, Michel, Renda, Carbin, "Learning to Compile Programs to Neural Networks" | arXiv, 2024-07 | [Paper](https://arxiv.org/abs/2407.15078) |
-| Zhang, Hotsko, Kim, Nie, Shieber, Deng, "Program-as-Weights: A Programming Paradigm for Fuzzy Functions" | NeurIPS 2026; first posted 2026-07-02 | [Paper](https://arxiv.org/abs/2607.02512) · [Page](https://programasweights.com/) · [Compiler](https://github.com/programasweights/compiler) · [Python SDK](https://github.com/programasweights/programasweights-python) |
+| Zhang, Hotsko, Kim, Nie, Shieber, Deng, "Program-as-Weights: A Programming Paradigm for Fuzzy Functions" | NeurIPS 2026; first posted 2026-07-02 | [Paper](https://arxiv.org/abs/2607.02512) · [Page](https://programasweights.com/) |
 | Bunel, Desmaison, Kohli, Torr, Kumar, "Adaptive Neural Compilation" | arXiv, 2016-05 | [Paper](https://arxiv.org/abs/1605.07969) |
 | Gruau, Ratajszczak, Wiber, "A neural compiler" | Theoretical Computer Science 141, 1995 | [DOI](https://doi.org/10.1016/0304-3975(94) |
 | Towell and Shavlik, "Knowledge-based artificial neural networks" (KBANN) | Artificial Intelligence 70, 1994 | [DOI](https://doi.org/10.1016/0004-3702(94) |
